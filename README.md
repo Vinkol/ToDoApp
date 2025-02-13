@@ -1,4 +1,5 @@
-Скачать приложение "Список дел"
-https://github.com/Vinkol/ToDoApp/releases/download/v1.0/ToDoList.exe
+# ToDo List
 
-v1.0
+Простое приложение для управления задачами.
+
+![Скриншот приложения](screenToDo.jpg)
