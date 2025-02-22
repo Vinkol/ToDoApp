@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\source\repos\Vinkol\ToDoApp\bin\Release\Планировщик.exe.config
+C:\Users\Дмитрий\source\repos\Vinkol\ToDoApp\bin\Release\Планировщик.exe
+C:\Users\Дмитрий\source\repos\Vinkol\ToDoApp\bin\Release\Планировщик.pdb
+C:\Users\Дмитрий\source\repos\Vinkol\ToDoApp\obj\Release\ToDoList.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Vinkol\ToDoApp\obj\Release\ToDoWinForms.ToDoList.resources
+C:\Users\Дмитрий\source\repos\Vinkol\ToDoApp\obj\Release\ToDoList.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\Vinkol\ToDoApp\obj\Release\ToDoList.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\Vinkol\ToDoApp\obj\Release\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Vinkol\ToDoApp\obj\Release\Планировщик.exe
+C:\Users\Дмитрий\source\repos\Vinkol\ToDoApp\obj\Release\Планировщик.pdb

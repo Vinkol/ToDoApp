@@ -7,11 +7,12 @@
     <ProjectGuid>{E6135AE3-3338-44FA-99E3-2B5EA068598C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ToDoList</RootNamespace>
-    <AssemblyName>ToDoList</AssemblyName>
+    <AssemblyName>Планировщик</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+	<ApplicationIcon>ToDo.ico</ApplicationIcon>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
